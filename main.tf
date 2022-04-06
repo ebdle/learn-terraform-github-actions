@@ -15,7 +15,7 @@ terraform {
     organization = "ACG-Terraform-Labs-ebdle-prod"
 
     workspaces {
-      name = "github-actions-ebdle"
+      name = "demo-github-actions"
     }
   }
 }
